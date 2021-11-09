@@ -5,4 +5,4 @@ This repositories is all about advanced AdMob Interstitial ad.
 
 <a href="https://youtube.com/"><img src="https://i.ibb.co/fnVKbzb/thumbnail.png"></img></a>
 
-view full Video here : 
+View full Video here : 
